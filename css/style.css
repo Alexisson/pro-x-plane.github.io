@@ -1,0 +1,12 @@
+.country-name {
+  font-weight: bold;
+  font-size: 20;
+}
+
+ul > li {
+  list-style: none;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
